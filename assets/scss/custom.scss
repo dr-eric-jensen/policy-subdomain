@@ -1,2 +1,10 @@
-// DO NOT WRITE ANY STYLE IN THIS FILE
-// If you want to add your own styles, please write it in the `./assets/scss/custom.scss` file.
+// Add your own custom styles here
+p a {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+p a:hover {
+  text-decoration: underline;
+  font-weight: inherit;
+}

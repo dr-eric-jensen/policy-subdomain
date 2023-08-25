@@ -1,0 +1,14 @@
+{
+  "main": [
+    {
+      "name": "twitter",
+      "icon": "fab fa-twitter",
+      "link": "https://twitter.com/JensenWarwick?s=20"
+    },
+    {
+      "name": "fostodon",
+      "icon": "fa-brands fa-mastodon",
+      "link": "https://fosstodon.org/@danielskatz"
+    }
+  ]
+}

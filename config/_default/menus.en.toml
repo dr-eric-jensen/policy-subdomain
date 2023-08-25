@@ -1,0 +1,63 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "Overview"
+url = "/#overview"
+weight = 2
+
+[[main]]
+name = "Approach"
+url = "/#approach"
+weight = 3
+
+[[main]]
+name = "Research"
+url = "/#research"
+weight = 4
+
+[[main]]
+name = "Resources"
+url = "resources/"
+weight = 5
+
+[[main]]
+name = "Team"
+url = "team/"
+weight = 6
+
+[[main]]
+name = "Community"
+url = "community/"
+weight = 7
+
+# footer menu
+[[footer]]
+name = "Overview"
+url = "/#overview"
+weight = 2
+
+[[footer]]
+name = "Approach"
+url = "/#approach"
+weight = 3
+
+[[footer]]
+name = "Research"
+url = "/#research"
+weight = 4
+
+[[footer]]
+name = "Resources"
+url = "resources/"
+weight = 5
+
+[[footer]]
+name = "Team"
+url = "team/"
+weight = 6
+
+[[footer]]
+name = "Community"
+url = "community/"
+weight = 7
